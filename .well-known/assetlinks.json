@@ -11,7 +11,7 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "web",
-    "site": "https://github.com/tims40080-gif"
+    "site": "https://tims40080-gif.github.io/"
   }
 },
 {
